@@ -1,0 +1,9 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definitionProperties/2.0.0/schema.json",
+  "version": "4.0",
+  "datasetReference": {
+    "byConnection": {
+      "connectionString": "Data Source=\"powerbi://api.powerbi.com/v1.0/myorg/proj_a_presentation [ppe]\";initial catalog=norges_bank_exchange_rates;integrated security=ClaimsToken;semanticmodelid=0ef4b714-1409-49a1-b8ec-f2e678428175"
+    }
+  }
+}
